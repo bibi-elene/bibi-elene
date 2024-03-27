@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @bibi-elene
-- 🌱 I’m currently learning React
-- 📫 How to reach me bibi.elene21@gmail.com
+- 📫 Reach me at bibi.elene21@gmail.com
 
 <!---
 bibi-elene/bibi-elene is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
